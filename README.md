@@ -4,6 +4,6 @@
 
 > Utilizar sus propias estructuras implementados en el curso
 
-> Extender el Stack de la lista circular doblemente enlazada (nota maxima 20), caso contrario, extender el Stack del array circular (nota maxima 18)
+> Con uso de listas enlazadas (nota maxima 20), caso contrario, extender solo uso de arrays (nota maxima 18)
 
 >Total de tests: 7
