@@ -4,4 +4,4 @@
 
 > Utilizar su propia implementación de  stack y lista enlazada.
 
->Total de tests: 7
+>Total de tests: 8
